@@ -9,3 +9,5 @@ let xe= "5" ;
 let ye = "2" ; 
 let ze = xe*ye ;
 console.log(ze);
+
+
