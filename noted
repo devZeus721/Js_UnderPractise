@@ -1,0 +1,32 @@
+*/For Prompt issue in Js/*
+
+PS D:\GithubDRive\Js_UnderPractise> npm init -y 
+Wrote to D:\GithubDRive\Js_UnderPractise\package.json:
+
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "js_underpractise",
+  "description": "Practising Area for Js",
+  "version": "1.0.0",
+  "main": "1)findingthetyeOF.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+
+PS D:\GithubDRive\Js_UnderPractise> npm install prompt-sync
+
+up to date, audited 4 packages in 2s
+
+found 0 vulnerabilities
+PS D:\GithubDRive\Js_UnderPractise> node turnout.js
+Enter the length of the rectangle: 20
+Enter the breadth of the rectangle: 10
+The area of the rectangle is: 200

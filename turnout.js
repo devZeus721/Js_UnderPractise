@@ -14,7 +14,7 @@ always be in the range of
 integers.
 */
 
-const prompt = require ("prompt-sync")({sigint: true})
+const prompt = require ("prompt-sync")()
 
 let length = parseInt(prompt("Enter the length of the rectangle: "));
 let breadth = parseInt(prompt("Enter the breadth of the rectangle: "));
