@@ -16,8 +16,8 @@ integers.
 
 const prompt = require ("prompt-sync")({sigint: true})
 
-let length = parseInt(prompt("Enter the length of the rectangle:"));
-let breadth = parseInt(prompt("Enter the breadth of the rectangle:"));
+let length = parseInt(prompt("Enter the length of the rectangle: "));
+let breadth = parseInt(prompt("Enter the breadth of the rectangle: "));
 
 //Calculating the area of the rectangle
 let area = (length * breadth);
